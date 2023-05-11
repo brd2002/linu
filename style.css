@@ -1,0 +1,17 @@
+.card{
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+}
+img{
+    height: 200px;
+    width:300px;
+    padding-left: 45px;
+    padding-top: 50px;
+}
+.heading1{
+    text-align: center;
+}
+.heading2{
+    text-align: center;
+}
